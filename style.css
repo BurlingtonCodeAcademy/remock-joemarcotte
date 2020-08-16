@@ -1,3 +1,7 @@
+body{ 
+	margin: 0px;
+}
+
 #header a {
 	font-family: "Arvo", serif;
 	display: flex;
